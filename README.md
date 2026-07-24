@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋, I'm Nagarjun Myakala</h1> <h3 align="center">Aspiring Data Analyst | Turning data into decisions</h3> <p align="center"> <img src="https://komarev.com/ghpvc/?username=naga-012&label=Profile%20views&color=0e75b6&style=flat" alt="naga-012" /> </p>
+<h1 align="center">Hi 👋, I'm KAJA SATISH BABU </h1> <h3 align="center">Aspiring Data Analyst | Turning data into decisions</h3> <p align="center"> <img src="https://komarev.com/ghpvc/?username=naga-012&label=Profile%20views&color=0e75b6&style=flat" alt="naga-012" /> </p>
 👨‍💻 About Me
-🎓 Graduated from Bharat Institute of Engineering & Technology (2022) with a background in Information Technology
+🎓 Graduated from DNR COLLEGE OF ENNG AND TECH (2022) with a background in AIML
 📊 Currently focused on building a career as a Data Analyst
 💼 Completed a hands-on internship applying data analysis skills to real-world problems
 🌱 Constantly sharpening my skills in data cleaning, analysis, and visualization
