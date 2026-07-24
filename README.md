@@ -1,86 +1,18 @@
-## Hi there 👋
-
-<!--
-**satishchowdary1230-m# Project Name
-
-Short one- or two-line description of what this project does and who it's for.
-
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
-[![Build Status](https://img.shields.io/badge/build-passing-brightgreen.svg)]()
-
-## Table of Contents
-
-- [Features](#features)
-- [Demo](#demo)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Configuration](#configuration)
-- [Project Structure](#project-structure)
-- [Testing](#testing)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
-
-## Features
-
-- Feature 1
-- Feature 2
-- Feature 3
-
-## Demo
-
-Add a screenshot, GIF, or link to a live demo here.
-
-## Installation
-
-### Prerequisites
-
-- Node.js >= 18 (or whatever runtime your project needs)
-- npm / yarn / pnpm
-
-### Steps
-
-```bash
-# Clone the repository
-git clone https://github.com/username/repo-name.git
-
-# Navigate into the project directory
-cd repo-name
-
-# Install dependencies
-npm install
-```
-
-## Usage
-
-```bash
-# Run the project
-npm start
-```
-
-Add example commands, code snippets, or screenshots showing typical usage.
-
-```javascript
-import { example } from 'repo-name';
-
-example.run();
-```
-
-## Configuration
-
-If your project needs environment variables, list them here:
-
-```env
-API_KEY=your_api_key_here
-PORT=3000
-```
-
-Create a `.env` file in the root directory and add the variables above.
-
-## Project Structureaker/satishchowdary1230-maker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
+<h1 align="center">Hi 👋, I'm Nagarjun Myakala</h1> <h3 align="center">Aspiring Data Analyst | Turning data into decisions</h3> <p align="center"> <img src="https://komarev.com/ghpvc/?username=naga-012&label=Profile%20views&color=0e75b6&style=flat" alt="naga-012" /> </p>
+👨‍💻 About Me
+🎓 Graduated from Bharat Institute of Engineering & Technology (2022) with a background in Information Technology
+📊 Currently focused on building a career as a Data Analyst
+💼 Completed a hands-on internship applying data analysis skills to real-world problems
+🌱 Constantly sharpening my skills in data cleaning, analysis, and visualization
+📍 Based in Hyderabad, India
+💬 Ask me about Python, SQL, or Excel
+🛠️ Tech Stack & Tools
+<p align="left"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" /> </p>
+📊 GitHub Stats
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=naga-012&show_icons=true&theme=default" alt="naga-012's GitHub stats" height="165"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=naga-012&theme=default" alt="naga-012's streak stats" height="165"/> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naga-012&layout=compact&theme=default" alt="Top Languages" /> </p>
+📫 Connect with Me
+<p align="left"> <!-- Add your links below --> <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="#"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> </p>
+<p align="center"><i>Thanks for visiting my profile! ⭐ Feel free to explore my repositories.</i></p>## Hi there 👋
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
