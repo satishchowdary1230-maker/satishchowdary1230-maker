@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm KAJA SATISH BABU </h1> <h3 align="center">Aspiring Data Analyst | Turning data into decisions</h3> <p align="center"> <img src="https://komarev.com/ghpvc/?username=naga-012&label=Profile%20views&color=0e75b6&style=flat" alt="naga-012" /> </p>
+<h1 align="center">Hi 👋, I'm KAJA SATISH BABU </h1> <h3 align="center">Aspiring Data Analyst | Turning data into decisions</h3> <p align="center"> <img src="https://komarev.com/ghpvc/?username=naga-012&label=Profile%20views&color=0e75b6&style=flat" alt="satishchowdary1230-maker" /> </p>
 👨‍💻 About Me
 🎓 Graduated from DNR COLLEGE OF ENNG AND TECH (2022) with a background in AIML
 📊 Currently focused on building a career as a Data Analyst
@@ -9,7 +9,7 @@
 🛠️ Tech Stack & Tools
 <p align="left"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" /> </p>
 📊 GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=naga-012&show_icons=true&theme=default" alt="naga-012's GitHub stats" height="165"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=naga-012&theme=default" alt="naga-012's streak stats" height="165"/> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naga-012&layout=compact&theme=default" alt="Top Languages" /> </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=satishchowdary1230-maker&show_icons=true&theme=default" alt="satishchowdary1230-maker's GitHub stats" height="165"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=satishchowdary1230-maker&theme=default" alt="satishchowdary1230-maker's streak stats" height="165"/> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=satishchowdary1230-maker&layout=compact&theme=default" alt="Top Languages" /> </p>
 📫 Connect with Me
 <p align="left"> <!-- Add your links below --> <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="#"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> </p>
 <p align="center"><i>Thanks for visiting my profile! ⭐ Feel free to explore my repositories.</i></p>## Hi there 👋
